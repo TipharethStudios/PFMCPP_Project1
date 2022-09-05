@@ -94,7 +94,7 @@ painter.cleanPaintbrush();
 //  6)
 //  Noun:  Horse
 //  action 1: the horse neighs
-horse.Neigh();
+horse.neigh();
 //  action 2: the horse eats food
 horse.eatFood();
 //  action 3: the horse gallops
@@ -114,7 +114,7 @@ doctor.seePatient();
 //  action 2: the doctor provides medicine
 doctor.provideMedicine();
 //  action 3: the doctor wears scrubs
-doctor.wearscrub();
+doctor.wearScrub();
 //  9)
 //  Noun:    Lotus Flower
 //  action 1: the lotus flower abosrbs sunlight
