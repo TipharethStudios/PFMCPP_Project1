@@ -116,21 +116,21 @@ doctor.provideMedicine();
 //  action 3: the doctor wears scrubs
 doctor.wearscrub();
 //  9)
-//  Noun:    
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    Mechanic
+//  action 1: the mechanic fixes the car
+mechanic.fixCar();
+//  action 2: the mechanic changes the oil in the car
+mechanic.changeOilInCar();
+//  action 3: the mechanic puts away their tools
+mechanic.putToolsAway();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    Teacher
+//  action 1: the teacher writes the lesson
+teacher.writeLesson();
+//  action 2: the teacher grades the tests
+teacher.gradeTest();
+//  action 3: the teacher provides extra help
+teacher.provideExtraHelp();
 
 
 #endif
