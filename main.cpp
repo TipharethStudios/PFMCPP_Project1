@@ -98,7 +98,7 @@ horse.Neigh();
 //  action 2: the horse eats food
 horse.eatFood();
 //  action 3: the horse gallops
-horse.Gallop();
+horse.gallop();
 //  7)
 //  Noun:   Dog 
 //  action 1: the dog runs
@@ -116,13 +116,13 @@ doctor.provideMedicine();
 //  action 3: the doctor wears scrubs
 doctor.wearscrub();
 //  9)
-//  Noun:    Mechanic
-//  action 1: the mechanic fixes the car
-mechanic.fixCar();
-//  action 2: the mechanic changes the oil in the car
-mechanic.changeOilInCar();
-//  action 3: the mechanic puts away their tools
-mechanic.putToolsAway();
+//  Noun:    Lotus Flower
+//  action 1: the lotus flower abosrbs sunlight
+lotusFlower.absorbSunlight();
+//  action 2: the lotus flower spreads it's roots
+lotusFlower.spreadRoots();
+//  action 3: the lotus flower grows new leaves
+lotusFlower.growNewLeaves();
 //  10)
 //  Noun:    Teacher
 //  action 1: the teacher writes the lesson
