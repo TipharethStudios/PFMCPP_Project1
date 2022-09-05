@@ -52,71 +52,71 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  Fish
+//  action 1: the fish swims
+fish.swim();
+//  action 2: the fish blows bubbles
+fish.blowBubble();
+//  action 3: the fish eats food
+fish.eatFood();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  Cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat chases the mouse
+cat.chaseMouse();
+//  action 3: the cat drinks milk
+cat.drinkMilk();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  Baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby falls asleep gently
+baby.fallAsleepGently();
+//  action 3: the baby eats baby food
+baby.eatBabyFood();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  Musician
+//  action 1: the musician tunes their instrument
+musician.tuneInstrument();
+//  action 2: the musician practices to a metronome
+musician.practiceToMetronome();
+//  action 3: the musician writes a song
+musician.writeSong();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Painter
+//  action 1: the painter picks the colors
+painter.pickColor();
+//  action 2: the painter draws on the canvas
+painter.drawOnCanvas():
+//  action 3: the painter cleans their paintbrushes
+painter.cleanPaintbrush();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  Horse
+//  action 1: the horse neighs
+horse.Neigh();
+//  action 2: the horse eats food
+horse.eatFood();
+//  action 3: the horse gallops
+horse.Gallop();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   Dog 
+//  action 1: the dog runs
+dog.run();
+//  action 2: the dog barks at the squirrel 
+dog.barkAtSquirrel();
+//  action 3: the dog eats dog food
+dog.eatDogFood();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:   Doctor 
+//  action 1: the doctor sees patients 
+doctor.seePatient();
+//  action 2: the doctor provides medicine
+doctor.provideMedicine();
+//  action 3: the doctor wears scrubs
+doctor.wearscrub();
 //  9)
-//  Noun:
+//  Noun:    
 //  action 1:
 
 //  action 2:
